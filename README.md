@@ -24,18 +24,6 @@
 ```
 <br>
 
-## 👨‍💻 백엔드 측 개발 참여자 및 역할
-- 김선우 (성균관대학교)
-  - 데이터 베이스 개념적 설계 & 논리적 설계
-  - user/mypage API 구현
-  - novel/all API 구현
-  - novel/part/:challenge API 구현
-  - novel/:novelid API 구현
-  - novel/:novelid/relay API 구현
-
-
-<br>
-
 
 ## 📌주요 기능 
 
